@@ -73,7 +73,7 @@ public class Ativi_Q14 {
 
     public static void main(String[] args) {
                 
-        int total_p = 2,count_m = 0;
+        int total_p = 50,count_m = 0;
         double alt,ma_alt = Double.MIN_VALUE,me_alt = Double.MAX_VALUE,soma = 0,soma_m = 0,media_m=0,media_alt=0;
         char sexo;
         String ssexo;
