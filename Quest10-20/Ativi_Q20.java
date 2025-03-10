@@ -63,13 +63,13 @@ fim
 TESTE DE MESA
 
 VOTO(2X) / VOTO(1X) / VOTO(4X) / VOTO(2X)/ VOTO(OPSAO SAIR) / SE1 / SENAO1 / ESCREVA
-   2          1           0        9             3             V      F     CANDIDATO VENCEDOR: EUGÊNIA 
+   2          1           0        9             3             V      F     CANDIDATO VENCEDOR:EUGÊNIA
                                                                             NÚMERO DE VOTOS EM BRANCO:4
                                                                             NUMERO DE VOTOS NULO:2
                                                                             NUMERO DE ELEITORES:9
 
 VOTO(2X) / VOTO(2X) / VOTO(1X) / VOTO(OPSAO SAIR) / SE1 / SENAO1 / ESCREVA
-    1         2          0              3           V       F    CANDIDATO VENCEDOR:FIRMINO  
+    1         2          0              3           V       F    CANDIDATO VENCEDOR:Inválido
                                                                  NÚMERO DE VOTOS EM BRANCO:1
                                                                  NUMERO DE VOTOS NULO:0
                                                                  NUMERO DE ELEITORES:5
@@ -136,9 +136,9 @@ public class Ativi_Q20 {
          {
           venc="Eugênia";    
          }
-         else
+         else if(voto_f==voto_e)
          {
-          venc="Firmino";   
+          venc="Inválido";   
          }
          
         }
