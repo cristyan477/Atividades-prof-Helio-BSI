@@ -6,7 +6,7 @@ caractere: sexo
 
 INICIO
 
-para(i->0;i<total_p;i loop)
+para(i->0;i menor total_p;i loop)
 {
 Escreva("Digite a altura em metros " + (i + 1) + ":")
 
