@@ -26,7 +26,7 @@ TESTE DE MESA
 COMPRA_1 / COMPRA_2 / COMPRA_3 / COMPRA_4 / SE / SENAO / IMPRIMIR    TOTAL_GASTO   PONTOS /
  15.5        34         25           73     V     ´-         V       R$147.5        29.5
   0          0          0            0      V      -         V       R$00.0          0
- -0         -9         -99.9        -6      -      F         F          -            -
+ -1         -9         -99.9        -6      -      F         F          -            -
 
  */
 
