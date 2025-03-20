@@ -1,5 +1,5 @@
 /*
- VAR
+ VAR 
 moeda1cent,moeda5cent,moeda10cent,moeda25cent,moeda50cent,moeda1real,total
 cadeia:REAL
 
