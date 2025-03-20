@@ -1,5 +1,5 @@
 /*
- VAR
+ VAR 
 inteiro:blusas
 novelos,novelosporblusas
 cadeia:REAL
