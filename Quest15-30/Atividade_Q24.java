@@ -23,7 +23,7 @@ TESTE DE MESA
 LITROS_TOTAL / AGUA / SUCO / SE / SENAO / IMPRIMIR
       5       4.00   1.00    V     -        V(5/4.00/1.00)
       0          0     0     V     -        V(0)
-     -0        -9     -88    -     F        F     
+     -1        -9     -88    -     F        F     
   
  */
 
