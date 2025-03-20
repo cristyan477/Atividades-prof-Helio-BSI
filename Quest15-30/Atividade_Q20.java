@@ -23,7 +23,7 @@ TESTE DE MESA
 BLUSAS / NOVELOS / SE / SENAO / IMPRIMA /
  2         40      V     -       20
  0         0       -     F       -
--0        -0       -     F       -
+-1        -1       -     F       -
 
 */
 
