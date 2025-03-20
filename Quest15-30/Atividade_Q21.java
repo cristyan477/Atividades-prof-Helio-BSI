@@ -23,7 +23,7 @@ TESTE DE MESA
 LATA350ML / GARRAFA600ML / GARRAFA2L / SE / SENAO / IMPRIMA 
   2            4              8        V     -       19.1 ml/L
   0            0              0        V     -        0
--0            -4             -7        -     F        F
+-1            -4             -7        -     F        F
 
  */
 
