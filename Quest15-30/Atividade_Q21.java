@@ -1,7 +1,7 @@
 /*
 VAR
 lata350ml,garrafa600ml,garrafa2L,litostotal
-cadeia:REAL
+cadeia:REAL 
 
 INICIO
  escreva ("Quantidade...350ml")
