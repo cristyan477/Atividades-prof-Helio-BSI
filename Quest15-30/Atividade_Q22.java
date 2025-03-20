@@ -26,7 +26,7 @@ TESTE DE MESA
 MOEDA1CENT / MOEDA5CENT / MOEDA10CENT / MOEDA25CENT / MOEDA50CENT / MOEDA1REAL / SE /SENAO / IMPRIMIR
     1           2             3            4             5             6         V    -       R$9.91
     0           0             0            0             0             0         V    -       R$0.00
-   -0          -6            -5           -7            -8            -2         -    F         F
+   -1          -6            -5           -7            -8            -2         -    F         F
 
  */
 
