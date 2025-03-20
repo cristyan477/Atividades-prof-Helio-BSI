@@ -23,7 +23,7 @@ TESTE DE MESA
 RAIO / ALTURA / SE / SENAO / VOLUME / IMPRIMIR
  3.5     8.14    V     -     313.10    V(313.10)
   0       0      V     -       0.0     V(0.0)
- -3.5     -0     -     F        -       F
+ -3.5    -1      -     F        -       F
 
  */
 
